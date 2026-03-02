@@ -7,7 +7,7 @@ Currently, I am working on freelance projects. I continue developing myself ever
 
 ### ⚡ Some brief facts
 
-<img style="float: right;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg5eHRvcTNnejljejZkOGN0bDMwYTQ0cHhydjl1ajltNWpnYnE5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zzGETTCgQlYHypN47M/giphy.gif" alt="GIF" width="25%"/>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg5eHRvcTNnejljejZkOGN0bDMwYTQ0cHhydjl1ajltNWpnYnE5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zzGETTCgQlYHypN47M/giphy.gif" alt="GIF" width="20%"/>
 
 - 🔭 I’m currently working on freelance projects
 
@@ -18,7 +18,7 @@ Currently, I am working on freelance projects. I continue developing myself ever
 - 💬 Ask me about anything related to web development
 
 
-
+<br>
 
 ## 🚀 Some tools and tech I use
 
