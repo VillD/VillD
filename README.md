@@ -3,20 +3,24 @@
 
 
 Currently, I am working on freelance projects. I continue developing myself every day, learning new things and moving forward with creative ideas
-
-
-<div style="position: relative;">
+<table style="border: none; width: 100%; border-collapse: collapse;">
+<tr style="border: none;">
+<td width="55%" style="border: none; vertical-align: top;">
 
 ### ⚡ Some brief facts
-<ul style="display: flex; flex-direction: column; gap: 10px;">
 
-<li> 🔭 I’m currently working on freelance projects </li>
-<li> 🌱 I’m currently learning React, Next JS, Astro and GSAP </li>
-<li> 👯 I’m looking to collaborate on open source projects </li>
-<li> 💬 Ask me about anything related to web development </li>
-<ul>
-<img style="position: absolute; top: 50%; right: 0; transform: translateY(-50%);" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg5eHRvcTNnejljejZkOGN0bDMwYTQ0cHhydjl1ajltNWpnYnE5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zzGETTCgQlYHypN47M/giphy.gif" alt="GIF" width="200"/>
-</div>
+- 🔭 I’m currently working on freelance projects
+- 🌱 I’m currently learning React, Next JS, Astro and GSAP
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about anything related to web development
+
+</td>
+
+<td width="45%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg5eHRvcTNnejljejZkOGN0bDMwYTQ0cHhydjl1ajltNWpnYnE5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zzGETTCgQlYHypN47M/giphy.gif" alt="GIF" width="100%"/>
+</td>
+</tr>
+</table>
 
 ## 🚀 Some tools and tech I use
 
