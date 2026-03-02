@@ -1,9 +1,9 @@
 # Hey 👋, I'm Daniel 👋
 
 Currently, I am working on freelance projects. I continue developing myself every day, learning new things and moving forward with creative ideas
-<table>
+<table style="border: none; width: 100%; border-collapse: collapse;">
 <tr>
-<td width="55%">
+<td width="55%" style="border: none;">
 
 ### ⚡ Some brief facts
 
