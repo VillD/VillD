@@ -1,9 +1,11 @@
-# Hey 👋, I'm Daniel 👋
+<h1 align="center"> Hey 👋, I'm Daniel 👋 </h1>
+<p align="center"><i>Web Developer | WordPress | React</i></p>
+
 
 Currently, I am working on freelance projects. I continue developing myself every day, learning new things and moving forward with creative ideas
 <table style="border: none; width: 100%; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border: none;">
+<tr style="border: none;">
+<td width="55%" style="border: none; vertical-align: top;">
 
 ### ⚡ Some brief facts
 
@@ -20,7 +22,7 @@ Currently, I am working on freelance projects. I continue developing myself ever
 </tr>
 </table>
 
-## 🚀 Some tools I use
+## 🚀 Some tools and tech I use
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
